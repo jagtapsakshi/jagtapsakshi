@@ -1,7 +1,7 @@
 # Hey there, great to see you!
 
 - 👋 Hi folks, This is Sakshi
-- 👀 I’m young Computer Engineer
+- 👀 I’m a young Computer Engineer
 - 🌱 Currently diging in the field of Development 
 - 💞️ My passion to learn and grow sets me apart from the crowd
 - 📫 Wanna know more abt me? Reach me here jagtapsakshi12@gamil.com
